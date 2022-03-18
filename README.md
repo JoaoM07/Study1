@@ -9,7 +9,11 @@ We are testing how VR can be used to study differences in wrist movement in heal
 
 By taking part in this project, you are contributing to a piece of research which will help develop novel treatments for hand pain.Thanks for your interest in this project. 
 
-Hopefully, you will find enough information about the study. Please, get in touch if you require more information or are willing to take part in the experiment. 
+Hopefully, you will find enough information about the study. Above, you will find the a study information sheet and respective consent form (these will be available during the experiment. Please, get in touch if you require more information or are willing to take part in the experiment. 
+
+## How to take part in the study
+
+...
 
 ## Enter a prize draw for a £40 Amazon voucher by completing the experiment!! 
 
