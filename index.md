@@ -1,4 +1,4 @@
-## TurnDaDial VR Study
+# TurnDaDial VR Study
 
 
 ![imageTurnDaDial](https://user-images.githubusercontent.com/74906995/158996456-dff5eb37-1a0e-4d70-97da-536660c3fe2a.jpg)
