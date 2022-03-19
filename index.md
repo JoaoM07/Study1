@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TurnDaDial study
 
 You can use the [editor on GitHub](https://github.com/JoaoM07/Study1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
