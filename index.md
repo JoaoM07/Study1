@@ -5,7 +5,7 @@
 
 ## Before you decide to take part in the study
 
-1. Read the [Study Information Sheet](https://github.com/JoaoM07/Study1/blob/gh-pages/Informed_Consent_Form.pdf).
+1. Read the [Study Information Sheet](https://github.com/JoaoM07/Study1/blob/gh-pages/Consent.md).
 2. Have a look at the [Consent Form]. You only need to fill it in during the experiment.
 3. There is also a [flyer] in case you want to tell your friends and family about the study.
 
