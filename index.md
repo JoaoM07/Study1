@@ -3,7 +3,7 @@
 # How to take part in the study
 
 
-Thank you for considering taking part in our study. Below, you will find all the necessary information to take part in the experiment. Please, get in touch if you require more information or if you need help to setup your headset. 
+Below, you will find all the information you need to take part in the experiment. Get in touch if you require more information or if you need help with setting up your headset. 
 
 ![imageTurnDaDial](https://user-images.githubusercontent.com/74906995/158996456-dff5eb37-1a0e-4d70-97da-536660c3fe2a.jpg)
 
