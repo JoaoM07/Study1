@@ -1,5 +1,3 @@
-
-
 # How to take part in the study
 
 
