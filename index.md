@@ -15,7 +15,7 @@ Otherwise, you can follow this tutorial [here](https://sidequestvr.com/setup-how
 
 # 2. Loading the experiment 
 
-The experiment is available to download from [here].
+The experiment is available to download from [here](https://sidequestvr.com/app/7689/turndadial).
 
 You should now be ready to take part in the study. Thank you for your interest!
 
